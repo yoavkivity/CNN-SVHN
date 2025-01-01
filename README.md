@@ -1,11 +1,11 @@
 # CNN for classifying street house numbers from images, reaching 97% accuracy
 
 
-## confusion matrix:
+### confusion matrix:
 ![confusion_matrix](https://github.com/user-attachments/assets/6aecfa33-092d-4051-b947-b8473c2624de)
 
 
-Loss and Accuracy Graphs:
+###Loss and Accuracy Graphs:
 ![loss_accuracy_graph](https://github.com/user-attachments/assets/f2997ac3-4f72-4efa-86f7-ddcc0f5e82b3)
 
 
