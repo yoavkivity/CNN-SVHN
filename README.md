@@ -29,3 +29,9 @@ Test Accuracy: 97.78%
     accuracy                           0.98     73257
     macro avg      0.98      0.98      0.98     73257
     weighted avg   0.98      0.98      0.98     73257
+
+
+All rights preseverd to:
+Yuval Netzer, Tao Wang, Adam Coates, Alessandro Bissacco, Bo Wu, Andrew Y. Ng 
+Reading Digits in Natural Images with Unsupervised Feature Learning NIPS Workshop on Deep Learning and Unsupervised Feature Learning 2011.
+
